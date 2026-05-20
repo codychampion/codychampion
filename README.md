@@ -8,6 +8,12 @@ AI Decision Science Manager at Accenture Ireland · Dublin-based · builder of a
 
 [Portfolio + CV](https://codychampion.bitsandbeakers.com) · [LinkedIn](https://www.linkedin.com/in/cody-champion)
 
+![AI Systems](https://img.shields.io/badge/AI%20systems-agentic%20workflows-111827)
+![Geospatial ML](https://img.shields.io/badge/geospatial-ML-2563eb)
+![MLOps](https://img.shields.io/badge/MLOps-local--first-7c3aed)
+![Graph RAG](https://img.shields.io/badge/RAG-graph--backed-059669)
+![Dublin](https://img.shields.io/badge/based%20in-Dublin-334155)
+
 </div>
 
 ---
@@ -83,6 +89,4 @@ The best projects here tend to combine three things: rigorous technical foundati
 
 **AI systems · geospatial ML · decision science · agentic workflows · design-forward infrastructure**
 
-- CV + portfolio: [codychampion.bitsandbeakers.com](https://codychampion.bitsandbeakers.com)
-- LinkedIn: [linkedin.com/in/cody-champion](https://www.linkedin.com/in/cody-champion)
-
+</div>
