@@ -37,3 +37,4 @@ PhD, Biology (computational focus, NMSU) | NSF Graduate Research Fellow 2015-201
 
 - CV + portfolio: [codychampion.bitsandbeakers.com](https://codychampion.bitsandbeakers.com)
 - LinkedIn: [linkedin.com/in/cody-champion](https://www.linkedin.com/in/cody-champion)
+
