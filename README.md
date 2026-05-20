@@ -1,6 +1,6 @@
 # Cody Champion, PhD
 
-**AI Decision Science Manager** at Accenture Ireland, currently on-site at Meta Legal building enterprise knowledge AI automation. Based in Dublin.
+**AI Decision Science Manager** at Accenture Ireland. Based in Dublin.
 
 ---
 
