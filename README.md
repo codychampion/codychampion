@@ -83,4 +83,6 @@ The best projects here tend to combine three things: rigorous technical foundati
 
 **AI systems · geospatial ML · decision science · agentic workflows · design-forward infrastructure**
 
-</div>
+- CV + portfolio: [codychampion.bitsandbeakers.com](https://codychampion.bitsandbeakers.com)
+- LinkedIn: [linkedin.com/in/cody-champion](https://www.linkedin.com/in/cody-champion)
+
