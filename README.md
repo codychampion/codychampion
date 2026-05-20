@@ -15,7 +15,7 @@
 
 ## Background
 
-`ODNI/NGA postdoc` → `Booz Allen Hamilton Lead Scientist` (DARPA advisement) → `Accenture Federal Services ML Eng Manager` → `NSF Lead Data Scientist GS-15` (strategic advisor to Chief AI Officer) → `Accenture Ireland`
+`ODNI/NGA postdoc` → `Booz Allen Hamilton Lead Scientist` (DARPA advisement) → `Accenture Federal Services ML Eng Manager (IARPA SMART)` → `NSF Lead Data Scientist GS-15` (strategic advisor to Chief AI Officer) → `Accenture Ireland`
 
 PhD, Biology (computational focus, NMSU) | NSF Graduate Research Fellow 2015-2018 | Claude Certified Architect (Early Adopter, 2026)
 
