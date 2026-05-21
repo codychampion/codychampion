@@ -1,10 +1,22 @@
 # Cody Champion, PhD
 
-**AI Decision Science Manager** at Accenture Ireland, based in Dublin.
+**AI / ML engineering leader** focused on agentic AI systems, geospatial machine learning, RAG, MLOps, model evaluation, and AI infrastructure. Currently **AI Decision Science Manager** at Accenture Ireland, based in Dublin.
 
-I build AI systems that make messy technical decisions easier: agentic workflows, geospatial ML, retrieval systems, scientific tooling, and local-first AI infrastructure.
+I build AI systems that make messy technical decisions easier: agentic workflows, retrieval systems, scientific ML tooling, local-first AI infrastructure, and production-minded prototypes that can be inspected, evaluated, deployed, and improved.
 
-My work tends to sit where research ideas become operational systems: prototypes that can be inspected, evaluated, deployed, and improved.
+---
+
+## AI recruiter signal
+
+| Signal | Evidence |
+|---|---|
+| AI / ML leadership | AI Decision Science Manager; former ML Engineering Manager and Lead Scientist roles |
+| Agentic AI | FastMCP, multi-agent orchestration, tool routing, workflow observability, agent UI patterns |
+| RAG / retrieval | Embedding evaluation, scientific retrieval, academic paper similarity, knowledge workflows |
+| MLOps / AI infrastructure | Dockerized local ML workbench, model serving, experiment tracking, deployment patterns |
+| Geospatial ML | Satellite imagery, remote sensing, change detection, IARPA SMART evaluation pipelines |
+| Scientific ML | Postdoc research code, hyperspectral plant phenotyping, computational biology background |
+| AI strategy | Former strategic AI advisor experience at NSF and enterprise AI delivery experience |
 
 ---
 
@@ -21,7 +33,7 @@ The repositories here are being shaped into a coherent public portfolio:
 | Layer | Featured work | What it shows |
 |---|---|---|
 | Research roots | `demeter` | Postdoc-era TerraRef hyperspectral plant phenotyping and sensor/filter optimization |
-| Evaluation | `arxiv-embedding-benchmark` | Practical model comparison for academic retrieval and scientific RAG |
+| Evaluation | `arxiv-embedding-benchmark` | Practical model comparison for academic retrieval, embeddings, and scientific RAG |
 | Infrastructure | `local-ml-workbench` | Self-hosted MLOps lab: data, labeling, training, tracking, local LLMs, and notes |
 | Agents | `mcp-orchestrator-workbench` | React + FastAPI + FastMCP workbench for agent/workflow orchestration |
 | Developer tools | `claude-burn-check` | Claude Code skill for diagnosing context-window and token-burn problems |
@@ -31,15 +43,17 @@ Some repository names above reflect planned public renames in progress.
 
 ---
 
-## Current focus
+## Core technical themes
 
-| Theme | What I build |
+| Theme | Keywords / tools |
 |---|---|
-| Agentic systems | FastMCP, multi-agent orchestration, RAG, tool routing, workflow observability |
-| Geospatial ML | Satellite imagery, change detection, remote sensing, large evaluation pipelines |
-| Applied ML | Vision transformers, contrastive learning, segmentation, object detection, scientific workflows |
-| AI infrastructure | Local GPU workbenches, Docker stacks, Cloudflare access, model serving, experiment tracking |
-| Human-facing AI | Interfaces, diagnostics, design systems, and tools that make AI behavior easier to inspect |
+| Agentic systems | FastMCP, MCP, multi-agent orchestration, tool use, workflow execution, agent observability |
+| Retrieval systems | RAG, embeddings, vector search, scientific retrieval, academic paper similarity, model evaluation |
+| MLOps | Docker, local GPU workbenches, model serving, experiment tracking, dataset labeling, CI smoke checks |
+| Geospatial AI | Satellite imagery, remote sensing, change detection, segmentation, object detection, evaluation pipelines |
+| Applied ML | Vision transformers, contrastive learning, Siamese networks, UNet/ResNet, scientific workflows |
+| AI infrastructure | Cloudflare access, containerized services, FastAPI, React, Azure Container Apps, observability |
+| Human-facing AI | Interfaces, diagnostics, design systems, explainability, inspection, replay, and workflow visibility |
 
 ---
 
